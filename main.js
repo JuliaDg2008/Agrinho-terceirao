@@ -4,3 +4,8 @@ numeroSenha.textContent = 5;
 botoes[0].onclick = diminuiTamanho;
 
 console.log(botoes);
+
+function diminuiTamanho(){ 
+    let tamanhoSenha = 12;
+
+}
