@@ -12,3 +12,6 @@ function diminuiTamanho(){
 }
 
 console.log(botoes); 
+
+botoes[0].onclick = diminuiTamanho;
+botoes[1].onclick = aumentaTamanho;
